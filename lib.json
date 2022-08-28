@@ -1,0 +1,20 @@
+{
+    "translations":[
+        {
+            "windows":"dir",
+            "linux":"ls"
+        },
+        {
+            "windows":"ipconfig",
+            "linux":"ifconfig"
+        }
+
+
+
+    ]
+
+
+
+}
+
+
